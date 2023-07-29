@@ -1,1 +1,9 @@
 /* add your styles here */
+.image{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.heading{
+    text-align: center;
+}
